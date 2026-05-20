@@ -1,6 +1,5 @@
 # Asynchronous JavaScript
 
----
 
 ## Normal Function in JS
 
