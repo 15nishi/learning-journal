@@ -257,7 +257,6 @@ for (let i = 0; i < 4; i++) {
 }
 ```
 
-![for loop anatomy](for-loop-anatomy.svg)
 
 We can replace `4` with `users.length` by creating a length variable:
 
