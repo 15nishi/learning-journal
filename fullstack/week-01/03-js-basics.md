@@ -1,6 +1,5 @@
 # JavaScript — The Basics
 
----
 
 ## Web Development
 
