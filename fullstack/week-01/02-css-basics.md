@@ -70,7 +70,6 @@ Add a new `<style>` tag inside the `<head>` tag.
 
 ## Common Style Attributes
 
----
 
 ### color
 
