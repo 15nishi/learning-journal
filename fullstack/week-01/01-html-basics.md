@@ -6,7 +6,6 @@ HTML stands for Hyper Text Markup Language. It is the foundation of building uns
 
 ## Tags in HTML
 
----
 
 ### 1. `<title>`
 
