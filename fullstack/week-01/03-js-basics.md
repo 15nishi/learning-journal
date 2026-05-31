@@ -58,7 +58,7 @@ Variables in JS are not bound to a specific data type. Types are determined at r
 C++ code (won't compile):         JS code (will compile):
 int main() {                      var a = 1;
   int a = 1;                      a = "nishi";
-  a = "hello";   ← error         a = true;
+  a = "hello";   ← error          a = true;
   a = true;                       console.log(a)
 }
 // C++ doesn't let you            // JS lets you change
