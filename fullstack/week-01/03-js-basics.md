@@ -118,8 +118,6 @@ Yes and no. It is beginner friendly, but has a lot of performance overhead. But 
 
 ## Syntax of JavaScript
 
----
-
 ### 1. Variables
 
 Variables are used to store data. In JS, you declare variables using `var`, `let` or `const`.
@@ -287,7 +285,6 @@ console.log(result);   // op: 15
 
 ## Complex Types
 
----
 
 ### 1. Objects
 
